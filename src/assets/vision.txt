@@ -1,4 +1,4 @@
-Our vision is to create a dynamic web application that fosters meaningful social connections through shared interests in events. The platform empowers users to discover and express enthusiasm for events by liking them. When enough interest is shown, the application automatically forms event-specific groups, connecting like-minded individuals.
+Our vision is to create a dynamic web application that fosters meaningful social connections through shared interests in events. The platform empowers users to discover and express enthusiasm for events by swiping on them, just like Tinder. When enough interest is shown, the application automatically forms event-specific groups, connecting like-minded individuals.
 
 These groups serve as collaborative hubs where participants can engage in discussions, coordinate logistics, and finalize event plans, all within an intuitive and user-friendly environment. By streamlining the process of gathering and interacting with others who share similar interests, our platform aims to enhance event participation and foster a sense of community.
 
