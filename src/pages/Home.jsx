@@ -1,8 +1,8 @@
 function Home() {
     return (  
     <div>
-      <h1>Welcome to the Trucking Company App</h1>
-      <p>Administer your trucking company efficiently!</p>
+      <h1>Welcome to the Event App</h1>
+      <p>Discover, connect, and plan events with ease!</p>
     </div>
     );
 }
