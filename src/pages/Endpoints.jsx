@@ -9,7 +9,7 @@ function Endpoints() {
       }, []);
 
     const fetchRoutes = () => {
-        fetch('https://hotel.lukasronberg.dk/api/routes')
+        fetch('https://eventapi.lukasronberg.dk/api/routes')
           .then((response) => response.text())  // Get raw HTML response
           .then((data) => {
             setRoutes(data);  // Set the raw HTML content into the state

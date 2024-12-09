@@ -18,7 +18,7 @@ const MainContent = styled.div`
   padding: 20px;
   background-color: #fafafa;
   border-left: 2px solid #ccc;
-  overflow-y: auto; /* Allows scrolling inside the main content if needed */
+   /* Allows scrolling inside the main content if needed */
 `;
 
 const ErrorBanner = styled.div`
